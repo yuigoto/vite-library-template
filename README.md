@@ -12,6 +12,12 @@
 
 ## How to
 
+Clone this repository or use the following command to create your local project:
+
+```
+npx degit yuigoto/vite-library-template your-project-name
+```
+
 Place your library code under the `lib` folder and expose it through its `index.ts` file.
 
 This project was bootstrapped using `yarn create vite`, so you can use its commands to execute/build the project:

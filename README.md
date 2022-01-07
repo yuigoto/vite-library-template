@@ -40,4 +40,4 @@ This project is licensed under the `MIT License`. See `LICENSE.md` for details.
 
 ---
 
-_&copy;2021 YUITI_
+_&copy;2022 YUITI_
